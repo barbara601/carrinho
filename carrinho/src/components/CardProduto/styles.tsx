@@ -41,7 +41,7 @@ export const Botao = styled.button<BotaoProps>`
   font-weight: 500;
   cursor: pointer;
   color: white;
-  background-color: ${({ $adicionado }) => $adicionado ? '#19873e' : '#6c757d'};
+  background-color: ${({ $adicionado }) => $adicionado ? '#198754' : '#6c757d'};
   transition: all 0.2s ease;
 
   &:hover {
